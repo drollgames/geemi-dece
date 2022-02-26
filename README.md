@@ -1,2 +1,3 @@
-# geemi-dece
-Zaidi da jola
+# GmDC
+
+`./gm`
